@@ -1,0 +1,20 @@
+{
+  "name": "firstjsinf5",
+  "version": "1.0.0",
+  "description": "My first javascript exercise in F5!",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArturoAlvarezY/firstJsInF5.git"
+  },
+  "author": "Arturo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArturoAlvarezY/firstJsInF5/issues"
+  },
+  "homepage": "https://github.com/ArturoAlvarezY/firstJsInF5#readme"
+}
